@@ -1,0 +1,93 @@
+test
+Spiel startet!
+Runde 1
+Alex legt 9
+Jake legt 0
+ZazaCrew legt 4
+Penny legt 8
+Werte aus...
+Alex gewinnt die Runde und erh�lt 9 Punkte.
+###############################################
+
+Runde 2
+Alex legt 19
+Jake legt 17
+ZazaCrew legt 1
+Penny legt 19
+Werte aus...
+Jake gewinnt die Runde und erh�lt 17 Punkte.
+###############################################
+
+Runde 3
+Alex legt 8
+Jake legt 6
+ZazaCrew legt 6
+Penny legt 19
+Werte aus...
+Penny gewinnt die Runde und erh�lt 19 Punkte.
+###############################################
+
+Runde 4
+Alex legt 10
+Jake legt 3
+ZazaCrew legt 14
+Penny legt 9
+Werte aus...
+ZazaCrew gewinnt die Runde und erh�lt 14 Punkte.
+###############################################
+
+Runde 5
+Alex legt 12
+Jake legt 10
+ZazaCrew legt 13
+Penny legt 6
+Werte aus...
+ZazaCrew gewinnt die Runde und erh�lt 13 Punkte.
+###############################################
+
+Runde 6
+Alex legt 0
+Jake legt 15
+ZazaCrew legt 17
+Penny legt 1
+Werte aus...
+ZazaCrew gewinnt die Runde und erh�lt 17 Punkte.
+###############################################
+
+Runde 7
+Alex legt 4
+Jake legt 0
+ZazaCrew legt 15
+Penny legt 8
+Werte aus...
+ZazaCrew gewinnt die Runde und erh�lt 15 Punkte.
+###############################################
+
+Runde 8
+Alex legt 10
+Jake legt 11
+ZazaCrew legt 12
+Penny legt 5
+Werte aus...
+ZazaCrew gewinnt die Runde und erh�lt 12 Punkte.
+###############################################
+
+Runde 9
+Alex legt 8
+Jake legt 19
+ZazaCrew legt 9
+Penny legt 19
+Werte aus...
+ZazaCrew gewinnt die Runde und erh�lt 9 Punkte.
+###############################################
+
+Runde 10
+Alex legt 4
+Jake legt 11
+ZazaCrew legt 12
+Penny legt 15
+Werte aus...
+Penny gewinnt die Runde und erh�lt 15 Punkte.
+###############################################
+
+Der Gewinner ist:ZazaCrew Mit der Punktzahl 80

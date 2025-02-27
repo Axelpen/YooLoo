@@ -18,8 +18,6 @@ public class Karte {
     public String toString() {
         return "Karte{" +
                 "wert=" + wert +
-                ", farbe='" + farbe + '\'' +
-                ", typ='" + art + '\'' +
-                '}';
+                ", farbe='" + farbe + '\'' +'}';
     }
 }
